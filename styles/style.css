@@ -1,0 +1,31 @@
+nav, ul, li{
+    display: inline;
+    margin-right: 10px;
+}
+a{
+    text-decoration: none;
+    background-color: tomato;
+    font-size: 30px;
+    border-radius: 5px;
+}
+a:hover{
+    background-color: rgb(201, 18, 195);
+    font-size: 35px;
+    border-radius: 8px;
+    color: white;
+}
+footer{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+}
+th,td{
+    border: 2px solid white;
+    background-color: rgb(223, 235, 238);
+    padding: 5px 10px;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
